@@ -1,0 +1,11 @@
+__pycache__/
+.vscode
+.idea
+err
+out
+*.sh
+tmp/
+tmp
+experiments
+*.pt
+*.tar

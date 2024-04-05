@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "company_cod": "AQ06_BA3",
+      "latitude": 41.774627,
+      "longitude": 13.543991,
+      "samples": [
+        {
+          "date": "20191210",
+          "labels": [
+            0
+          ],
+          "imgs": [
+            "data/frontiers_wnv_data/AQ06_BA3/20190101",
+            "data/frontiers_wnv_data/AQ06_BA3/20190106",
+            "data/frontiers_wnv_data/AQ06_BA3/20190111",
+            "data/frontiers_wnv_data/AQ06_BA3/20190116",
+            "data/frontiers_wnv_data/AQ06_BA3/20190121",
+            "data/frontiers_wnv_data/AQ06_BA3/20190126",
+            "data/frontiers_wnv_data/AQ06_BA3/20190131",
+            "data/frontiers_wnv_data/AQ06_BA3/20190205",
+            "data/frontiers_wnv_data/AQ06_BA3/20190210",
+            "data/frontiers_wnv_data/AQ06_BA3/20190215"
+          ]
+        }
+      ]
+    }
+  ]
+}
